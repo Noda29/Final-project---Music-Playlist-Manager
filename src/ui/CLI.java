@@ -26,7 +26,7 @@ public class CLI {
 
     //START
     public void start() {
-        System.out.println("Welcome yo Music Playlist Manager");
+        System.out.println("Welcome to Music Playlist Manager");
 
         boolean loggedIn = false; //authentification
         while (!loggedIn) {
