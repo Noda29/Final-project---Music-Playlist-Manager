@@ -27,3 +27,12 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Data files
+music.db
+*.json
+
+# Build and IDE files
+target/
+.idea/
+*.class
