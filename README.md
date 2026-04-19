@@ -47,6 +47,7 @@ Each class returns a different formatted string
 ---
 
 ## Project Structure
+```
 src/
 ├── Main.java
 ├── manager/
@@ -70,6 +71,7 @@ src/
 │         └── PlaylistView.java — songs window
 └── util/
 └── InputValidator.java — input checks
+```
 ---
 
 ## How to run
