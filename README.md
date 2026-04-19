@@ -138,7 +138,9 @@ empty lines after nextInt(), fixed it by using nextLine() everywhere.
 
 7. Data Persistence
    Description: Verification of stored data inside the SQLite database using a DB browser.
-   ![Database Persistence](screenshots/db_persistence.png)
+   ![Database Persistence](screenshots/db_persistence1.png)
+   ![Database Persistence](screenshots/db_persistence2.png)
+   ![Database Persistence](screenshots/db_persistence3.png)
 
 8. Export JSON
    Description: Generating a JSON file containing the current playlist data.
