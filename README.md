@@ -50,26 +50,26 @@ Each class returns a different formatted string
 src/
 ├── Main.java
 ├── manager/
-│   ├── AuthManager.java      - login, register, SHA-256 password hashing
-│   ├── PlaylistManager.java  - playlist and song logic
-│   └── UserManager.java      - admin functions
+│    ├── AuthManager.java — login, register, SHA-256 hashing
+│    ├── PlaylistManager.java — playlist and song logic
+│    └── UserManager.java — admin functions
 ├── model/
-│   ├── Song.java             - base class
-│   ├── PodcastEpisode.java   - extends Song
-│   ├── Playlist.java         - holds list of songs
-│   └── User.java             - user with role
+│    ├── Song.java — base class
+│    ├── PodcastEpisode.java — extends Song
+│    ├── Playlist.java — holds list of songs
+│    └── User.java — user with role
 ├── storage/
-│   ├── DatabaseManager.java  - all SQL queries
-│   └── FileManager.java      - JSON and CSV export/import
+│    ├── DatabaseManager.java — all SQL queries
+│    └── FileManager.java — JSON and CSV export/import
 ├── ui/
-│   ├── CLI.java              - console menu
-│   └── gui/
-│       ├── MainApp.java      - JavaFX entry point
-│       ├── LoginView.java    - login screen
-│       ├── MainWindow.java   - main window
-│       └── PlaylistView.java - songs window
+│    ├── CLI.java — console menu
+│    └── gui/
+│         ├── MainApp.java — JavaFX entry point
+│         ├── LoginView.java — login screen
+│         ├── MainWindow.java — main window
+│         └── PlaylistView.java — songs window
 └── util/
-└── InputValidator.java   - input checks
+└── InputValidator.java — input checks
 ---
 
 ## How to run
