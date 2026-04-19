@@ -154,5 +154,19 @@ empty lines after nextInt(), fixed it by using nextLine() everywhere.
     Description: Code snippet showing private fields, getters/setters, and class inheritance.
     ![OOP Principles](screenshots/oop_principles.png)
 
+### JavaFX Graphical Interface
+
+11. Login Screen (GUI)
+    Description: JavaFX login window with authentication logic.
+    ![Login GUI](screenshots/gui_login.png)
+
+12. Main Dashboard (GUI)
+    Description: The main graphical interface showing all user playlists.
+    ![Main GUI](screenshots/gui_main.png)
+
+13. Playlist Manager (GUI)
+    Description: Interface for adding and managing songs within a selected playlist.
+    ![Playlist GUI](screenshots/gui_playlist.png)
+
 ## Presentation
 [https://docs.google.com/presentation/d/1JvQvPqkBzwrriLUHmQT1n3ABzylILnmX/edit?usp=sharing&ouid=108383351970110843766&rtpof=true&sd=true](https://docs.google.com/presentation/d/1JvQvPqkBzwrriLUHmQT1n3ABzylILnmX/edit?usp=sharing&ouid=108383351970110843766&rtpof=true&sd=true)
