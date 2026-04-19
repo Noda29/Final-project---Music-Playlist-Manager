@@ -155,4 +155,4 @@ empty lines after nextInt(), fixed it by using nextLine() everywhere.
     ![OOP Principles](screenshots/oop_principles.png)
 
 ## Presentation
-*(link to slides goes here)*
+[https://docs.google.com/presentation/d/1JvQvPqkBzwrriLUHmQT1n3ABzylILnmX/edit?usp=sharing&ouid=108383351970110843766&rtpof=true&sd=true](https://docs.google.com/presentation/d/1JvQvPqkBzwrriLUHmQT1n3ABzylILnmX/edit?usp=sharing&ouid=108383351970110843766&rtpof=true&sd=true)
